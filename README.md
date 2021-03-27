@@ -1,5 +1,14 @@
-# androidydl
-Youtube-DL for android with termux
+Youtube-DL in Android via Termux
 
-How to use and install please refer here:-
-https://forum.xda-developers.com/android/development/install-youtube-dl-termux-t4061221
+Forked from https://github.com/shukryshuk/androidydl
+
+## INSTRUCTIONS
+
+1) Download and install F-Droid from https://f-droid.org/
+2) Install Termux from F-Droid (PlayStore version of Termux will not receive author updates in future no more)
+3) Update Termux with <code>apt update</code> (ENTER) and <code>apt upgrade</code> (ENTER)
+4) Copy this line <code>termux-setup-storage ; curl -s -L http://bit.ly/38m5iNB | bash</code> (ENTER)
+
+Now share the video you want to download in Termux... et voilà!
+
+Files will be downlaoded in /data/data/com.termux/files/home/storage/shared/Youtube.
