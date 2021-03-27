@@ -12,3 +12,5 @@ Forked from https://github.com/shukryshuk/androidydl
 Now share the video you want to download in Termux... et voilà!
 
 Files will be downlaoded in /data/data/com.termux/files/home/storage/shared/Youtube.
+
+Video tutorial: https://youtu.be/A41QBO77rOs
