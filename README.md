@@ -1,6 +1,4 @@
-Youtube-DL in Android via Termux
-
-Forked from https://github.com/shukryshuk/androidydl
+Youtube-DL in Android via Termux (forked from https://github.com/shukryshuk/androidydl)
 
 ## INSTRUCTIONS
 
